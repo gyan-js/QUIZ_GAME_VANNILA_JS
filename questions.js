@@ -62,7 +62,6 @@ let questions = [
      numb: 6,
      question: "What is the name of the extension file of C++",
      answer: ".cpp",
-     answer: ".c#",
      options: [
        ".c ",
        ".c#",
